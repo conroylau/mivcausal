@@ -24,7 +24,7 @@ program mivcs, rclass
 	* Retrieve the results
 	scalar cstest_temp = r(obj)
 	scalar csdf = r(thetazero)
-	if csdf == "Error" {
+	if string(csdf) == "Error" {
 		exit 498
 	}
 	

@@ -1,0 +1,14 @@
+v 1
+d mivcausal: A command for testing the hypothesis about the signs of the 2SLS weights
+d Conroy Lau and Alexander Torgovitsky
+f mivbon.ado
+f mivcausal.ado
+f mivcausal.dta
+f mivcausal.sthlp
+f mivchecks.ado
+f mivcs.ado
+f miviut.ado
+f mivmint.ado
+f mivreg.ado
+f mivrsw.ado
+f mivvars.ado

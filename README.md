@@ -2,6 +2,8 @@
 
 *[Conroy Lau](https://github.com/conroylau/) and [Alexander Torgovitsky](https://a-torgovitsky.github.io/)*
 
+[![DOI](https://zenodo.org/badge/279390568.svg)](https://zenodo.org/badge/latestdoi/279390568)
+
 __Table of Contents__  
 
 -  [Introduction](introduction)
